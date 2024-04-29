@@ -11,3 +11,8 @@ This repository contains the provided graphs along with the project deliverables
 * Well-commented implementation code;
 * Output files;
 * PDF document formatted like an academic article, detailing the implemented algorithms, the rationale behind implementation decisions, and the obtained results. This includes the weights of the minimum spanning trees for each of the graph instances.
+
+### Technologies
+
+![Code::Blocks Badge](https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
